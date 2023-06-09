@@ -13,3 +13,12 @@ Custom Css
 #about-container{
     background-color: #212934;
 }
+#h4{
+    color: #59ab6e;
+    font-weight: 300;
+    font-size: 16px;
+}
+#h4 span{
+    font-weight: bold;
+    color: #212934;
+}
